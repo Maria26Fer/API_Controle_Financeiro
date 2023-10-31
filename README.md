@@ -4,18 +4,22 @@
 
 O Projeto Dindin é uma API REST criada para auxiliar no gerenciamento de finanças pessoais. Com esta API, os usuários podem facilmente registrar suas despesas e receitas, categorizá-las de maneira eficaz e acessar informações sobre seus gastos financeiros. 
 
-## Funcionalidades
+## Funcionalidades:
 
-- Cadastrar usuários
-- Realizar login com autenticação segura
-- Listar suas transações de acordo com categorias
-- Cadastrar novas transações
-- Detalhar transações específicas
-- Atualizar informações de transações
-- Excluir transações
-- Obter um extrato de transações com saldo de entrada e saída
+- Cadastrar Usuário
+- Fazer Login
+- Detalhar Perfil do Usuário Logado
+- Editar Perfil do Usuário Logado
+- Listar categorias
+- Listar transações
+- Detalhar transação
+- Cadastrar transação
+- Editar transação
+- Remover transação
+- Obter extrato de transações
+- Filtrar transações por categoria
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas:
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,7 +29,7 @@ O Projeto Dindin é uma API REST criada para auxiliar no gerenciamento de finan�
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Pré-requisitos
+## Pré-requisitos:
 
 ```bash
 # Clonar o projeto
@@ -41,9 +45,7 @@ $ npm install
 $ npm run start
 ```
 
-- Use o Insomnia ou outro programa para testar as rotas
-
-## Autores
+## Feito por:
 
 [Maria Fernanda Dias Faleiro](https://github.com/Maria26Fer)
 
